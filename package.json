@@ -1,0 +1,26 @@
+{
+  "name": "layer-client",
+  "version": "0.0.0",
+  "description": "Platform agnostic client for Layer (works with React Native)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanrs/layer-client.git"
+  },
+  "keywords": [
+    "layer",
+    "chat",
+    "react",
+    "native",
+    "web"
+  ],
+  "author": "Evan Schneider",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/evanrs/layer-client/issues"
+  },
+  "homepage": "https://github.com/evanrs/layer-client#readme"
+}
